@@ -35,6 +35,8 @@
 
 ---
 ## 📊 **GitHub Stats**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeYun&layout=compact)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimeYun&show_icons=true&locale=en&layout=compact" alt="LimeYun" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeYun&layout=compact&theme=dracula)
