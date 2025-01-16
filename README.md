@@ -1,6 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimeYun&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeYun&layout=compact&theme=dracula)
 
 
 <h1 align="center"> 👋 안녕하세요 풀스택 개발자 홍성윤 입니다.</h1>
@@ -37,7 +35,9 @@
 
 ---
 ## 📊 **GitHub Stats**  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimeYun&show_icons=true&locale=en&layout=compact" alt="LimeYun" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeYun&layout=compact&theme=dracula)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimeYun&show_icons=true&locale=en&layout=compact" alt="LimeYun" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LimeYun&show_icons=true&locale=en" alt="LimeYun" /></p>
 
