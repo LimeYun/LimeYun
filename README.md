@@ -29,8 +29,8 @@
 
 ### 📌 ** **  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
-- **주제 :** 맛집 평점 및 리뷰 관리 시스템  
-- [흑백요리사 GitHub 링크](https://github.com/OhSeungWon00/MSA9_Food.git)
+- **주제 :** 영화 속 문화를 즐기기 위한 SNS
+- [NetStar GitHub 링크](https://github.com/LimeYun/MSA9_movie)
 
 
 ---
