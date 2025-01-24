@@ -14,11 +14,6 @@
 
 ---
 
-## 📂 **Portfolio**  
-- [📝 프로젝트 한 눈에 보기 노션 링크](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
-
----
-
 ## 🛠️ **Projects**  
 
 ### 📌 **FIT NEXUS**  
@@ -31,6 +26,12 @@
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
 - **주제 :** 영화 속 문화를 즐기기 위한 SNS
 - [NetStar GitHub 링크](https://github.com/LimeYun/MSA9_movie)
+
+  
+ ---
+
+## 📂 **Portfolio**  
+- [📝 프로젝트 한 눈에 보기 노션 링크](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
 
 
 ---
