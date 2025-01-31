@@ -4,13 +4,6 @@
 <h1 align="center"> 👋 안녕하세요 풀스택 개발자 홍성윤 입니다.</h1>
 <h3 align="center">full-stack developer from Korea</h3>
 
----
-
-## 👨‍💻 **About Me**  
-- 🛠️ **Skills:** Java, Spring Boot, React 등  
-- 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자
-- 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
-
 
 ---
 
@@ -26,6 +19,15 @@
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
 - **주제 :** 영화 속 문화를 즐기기 위한 SNS
 - [NetStar GitHub 링크](https://github.com/LimeYun/MSA9_movie)
+
+---
+
+## 👨‍💻 **About Me**  
+- 🛠️ **Skills:** Java, Spring Boot, React 등  
+- 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자
+- 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
+
+
 
   
  ---
