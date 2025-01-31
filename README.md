@@ -1,9 +1,7 @@
 
 
 
-<h1 align="center"> 👋 안녕하세요 풀스택 개발자 홍성윤 입니다.</h1>
-<h3 align="center">full-stack developer from Korea</h3>
-
+<h1 align="center"> 풀스택 개발자 홍성윤 입니다.</h1>
 
 ---
 
