@@ -7,7 +7,12 @@
 
 ## 🛠️ **Projects**  
 
-### 📌 **FIT NEXUS**  
+### 📌 **FIT NEXUS** (REST API, React)
+- **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
+- **주제 :** 헬스장 관리 및 PT예약 시스템  
+- [FIT NEXUS GitHub 링크](https://github.com/LimeYun/MSA9_GYM_REST)
+
+### 📌 **FIT NEXUS** (MVC, HTML/Thymeleaf)
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
 - [FIT NEXUS GitHub 링크](https://github.com/LimeYun/MSA9_GYM)
