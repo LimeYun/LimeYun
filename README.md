@@ -5,6 +5,11 @@
 
 ---
 
+## 📂 **Notion**  
+- [📝 Notion 이력서 링크](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
+
+---
+
 ## 🛠️ **Projects**  
 
 ### 📌 **FIT NEXUS** (REST API, React)
@@ -30,13 +35,8 @@
 - 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
 
-
-
   
  ---
-
-## 📂 **Portfolio**  
-- [📝 프로젝트 한 눈에 보기 노션 링크](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
 
 
 ---
