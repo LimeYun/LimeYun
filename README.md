@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+  <img src="https://render.gitanimals.org/farms/{LimeYun}"/>
 </a>
 
 <h1 align="center"> 풀스택 개발자 홍성윤 입니다.</h1>
