@@ -1,5 +1,9 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{LimeYun}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LimeYun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/LimeYun"
+  width="600"
+  height="300"
+/>
 </a>
 
 <h1 align="center"> 풀스택 개발자 홍성윤 입니다.</h1>
