@@ -1,8 +1,4 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{LimeYun}?pet-id=680213068716459044" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{LimeYun}"/>
 </a>
 
