@@ -3,7 +3,7 @@
 ---
 
 ## 📂 **Notion**  
-- [📝 Notion 이력서 링크](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
+### [📝 Notion 이력서 링크](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
 
 ---
 
